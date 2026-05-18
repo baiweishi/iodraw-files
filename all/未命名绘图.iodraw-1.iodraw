@@ -11,7 +11,7 @@
           <mxGeometry x="214" y="273" width="34" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gJB_ANUCQqfCxTWqY1Q2-6" value="点评评论优先置顶展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="217" width="134" height="80" as="geometry" />
+          <mxGeometry x="285" y="217" width="134" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
