@@ -272,7 +272,7 @@
           <mxGeometry x="271" y="854" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-77" value="是否达人点评" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="821" width="61" height="36" as="geometry" />
+          <mxGeometry x="552" y="863" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-78" value="评论用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="861" width="61" height="36" as="geometry" />
@@ -411,6 +411,12 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-122" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="348.0045774739557" y="1151.9970176264096" as="geometry">
             <mxPoint x="3" y="128" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-124" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9s3ZBQAzGlPECjb15qXu-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469" y="766" as="sourcePoint" />
+            <mxPoint x="519" y="716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
