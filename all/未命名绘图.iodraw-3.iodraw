@@ -131,7 +131,7 @@
           <mxGeometry x="146" y="224" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="342" width="61" height="26" as="geometry" />
+          <mxGeometry x="561" y="360" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-47" value="关联美食编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="499" width="61" height="36" as="geometry" />
@@ -367,7 +367,7 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-103" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="315" as="sourcePoint" />
-            <mxPoint x="405" y="613" as="targetPoint" />
+            <mxPoint x="405" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-105" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-103">
