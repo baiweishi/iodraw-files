@@ -125,7 +125,7 @@
           <mxGeometry x="182" y="373" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-42" value="美食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="421" width="61" height="26" as="geometry" />
+          <mxGeometry x="373" y="823" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="168" y="162" width="61" height="26" as="geometry" />
