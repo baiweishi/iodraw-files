@@ -49,8 +49,8 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-15" value="发布用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="211" width="61" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-16" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="299" width="63" height="36" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-16" value="评论时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="159" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-17" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="542" width="63" height="36" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry x="23" y="44" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-77" value="目标对象编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="206" width="61" height="36" as="geometry" />
+          <mxGeometry x="109" y="233" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-78" value="评论用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="113" width="61" height="36" as="geometry" />
