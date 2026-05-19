@@ -320,7 +320,7 @@
           <mxGeometry x="567" y="361" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-88" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="303" width="80" height="80" as="geometry" />
+          <mxGeometry x="244" y="124" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186" y="223" width="80" height="80" as="geometry" />
