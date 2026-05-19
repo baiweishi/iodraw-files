@@ -128,7 +128,7 @@
           <mxGeometry x="386" y="421" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="166" width="61" height="26" as="geometry" />
+          <mxGeometry x="163" y="168" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="281" width="61" height="26" as="geometry" />
