@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gJB_ANUCQqfCxTWqY1Q2-30" value="美食达人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="413" width="30" height="60" as="geometry" />
+          <mxGeometry x="132" y="413" width="30" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
