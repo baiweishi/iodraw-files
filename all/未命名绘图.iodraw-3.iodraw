@@ -74,7 +74,7 @@
           <mxGeometry x="136" y="461" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-28" value="配图路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="388" width="63" height="36" as="geometry" />
+          <mxGeometry x="512" y="504" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-31" value="浏览量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="930" width="63" height="36" as="geometry" />
