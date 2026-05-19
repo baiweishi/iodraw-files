@@ -506,7 +506,7 @@
           <mxGeometry x="122" y="706" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-161" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="693" width="57" height="58" as="geometry" />
+          <mxGeometry x="415" y="1207" width="57" height="58" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-162" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="734" y="692" width="61" height="49" as="geometry" />
