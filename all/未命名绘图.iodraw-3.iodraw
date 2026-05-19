@@ -38,7 +38,7 @@
           <mxGeometry x="339" y="72" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-14" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="832" width="63" height="36" as="geometry" />
+          <mxGeometry x="441" y="844" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-15" value="发布用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="454" y="573" width="61" height="36" as="geometry" />
@@ -289,7 +289,7 @@
             <mxPoint x="419" y="793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-14" target="9s3ZBQAzGlPECjb15qXu-43">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-14" target="9s3ZBQAzGlPECjb15qXu-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="213" y="303" as="sourcePoint" />
             <mxPoint x="263" y="253" as="targetPoint" />
