@@ -74,7 +74,7 @@
           <mxGeometry x="144" y="520" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-28" value="配图路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="769" y="386" width="63" height="36" as="geometry" />
+          <mxGeometry x="697" y="372" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-31" value="浏览量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="539" width="63" height="36" as="geometry" />
@@ -169,10 +169,10 @@
             <mxPoint x="443" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-44">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-44" target="9s3ZBQAzGlPECjb15qXu-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="369" as="sourcePoint" />
-            <mxPoint x="747" y="400" as="targetPoint" />
+            <mxPoint x="447" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-55" value="操作用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
