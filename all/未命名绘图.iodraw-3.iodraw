@@ -34,7 +34,7 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-10" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="545" width="63" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-11" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-11" value="美食名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="524" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-12" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="633" y="309" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-24" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="415" width="63" height="36" as="geometry" />
+          <mxGeometry x="491" y="439" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-25" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="63" height="36" as="geometry" />
@@ -146,10 +146,10 @@
           <mxGeometry x="108" y="416" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="270" width="61" height="26" as="geometry" />
+          <mxGeometry x="462" y="396" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="378" y="324" width="61" height="26" as="geometry" />
+          <mxGeometry x="489" y="315" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-47" value="关联美食编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="632" y="352" width="61" height="36" as="geometry" />
