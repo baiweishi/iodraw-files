@@ -319,8 +319,8 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-87" value="推广" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="282" width="66" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="237" y="251" width="70" height="70" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="231" y="257" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-90" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=-50;" vertex="1" parent="1">
           <mxGeometry x="448" y="185" width="82.08" height="69.06" as="geometry" />
@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-110" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="446.3945774739557" y="263.71701762640953" as="geometry">
+          <mxGeometry x="412.0045774739557" y="265.9970176264095" as="geometry">
             <mxPoint x="-200" y="63" as="offset" />
           </mxGeometry>
         </mxCell>
