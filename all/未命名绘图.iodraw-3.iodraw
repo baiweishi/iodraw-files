@@ -319,13 +319,8 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-87" value="推广" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="361" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-88">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363.60003662109375" y="182.80001831054688" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-88" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="262" y="130" width="75" height="74" as="geometry" />
+          <mxGeometry x="258" y="118" width="75" height="74" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186" y="223" width="80" height="80" as="geometry" />
