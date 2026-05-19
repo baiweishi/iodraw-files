@@ -128,7 +128,7 @@
           <mxGeometry x="386" y="421" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="174" width="61" height="26" as="geometry" />
+          <mxGeometry x="180" y="172" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="269" width="61" height="26" as="geometry" />
@@ -315,6 +315,15 @@
             <mxPoint x="155" y="330" as="sourcePoint" />
             <mxPoint x="193" y="195" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-87" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="208" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-88" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="303" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="223" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
