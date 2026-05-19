@@ -77,7 +77,7 @@
           <mxGeometry x="705" y="388" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-31" value="浏览量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="565" width="63" height="36" as="geometry" />
+          <mxGeometry x="457" y="560" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-32" value="所属地区" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="129" y="572" width="63" height="36" as="geometry" />
@@ -241,7 +241,7 @@
             <mxPoint x="289" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9s3ZBQAzGlPECjb15qXu-42">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-31" target="9s3ZBQAzGlPECjb15qXu-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="301" y="564" as="sourcePoint" />
             <mxPoint x="352" y="518" as="targetPoint" />
