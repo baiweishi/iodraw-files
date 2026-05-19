@@ -10,8 +10,8 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-2" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9" y="127" width="63" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-3" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="197" width="63" height="36" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-3" value="角色类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="130" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-4" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17" y="233" width="63" height="36" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="80" y="124" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-8" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="125" width="63" height="36" as="geometry" />
+          <mxGeometry x="148" y="126" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-9" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="289" width="63" height="36" as="geometry" />
