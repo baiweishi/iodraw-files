@@ -44,7 +44,7 @@
           <mxGeometry x="336" y="3" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-14" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37" y="152" width="63" height="36" as="geometry" />
+          <mxGeometry x="5" y="160" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-15" value="发布用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="211" width="61" height="36" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="695" y="255" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-24" value="评论编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16" y="5" width="63" height="36" as="geometry" />
+          <mxGeometry x="23" y="26" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-25" value="美食品类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402" y="542" width="63" height="36" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry x="23" y="67" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-77" value="是否达人点评" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="236" width="61" height="36" as="geometry" />
+          <mxGeometry x="73" y="230" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-78" value="评论用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="113" width="61" height="36" as="geometry" />
