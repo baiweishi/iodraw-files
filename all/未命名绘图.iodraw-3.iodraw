@@ -511,10 +511,16 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-162" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="569" y="1509" width="61" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-163" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9s3ZBQAzGlPECjb15qXu-156">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-163" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-159" target="9s3ZBQAzGlPECjb15qXu-156">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="1487" as="sourcePoint" />
             <mxPoint x="205" y="1437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-164" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154" y="1510" as="sourcePoint" />
+            <mxPoint x="204" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
