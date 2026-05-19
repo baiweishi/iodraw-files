@@ -44,13 +44,13 @@
           <mxGeometry x="141" y="123" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-14" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="54" width="63" height="36" as="geometry" />
+          <mxGeometry x="545" y="539" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-15" value="发布用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="211" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-16" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="62" width="63" height="36" as="geometry" />
+          <mxGeometry x="568" y="492" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-17" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="542" width="63" height="36" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="244" y="461" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="396" width="61" height="26" as="geometry" />
+          <mxGeometry x="561" y="414" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="269" width="61" height="26" as="geometry" />
