@@ -476,7 +476,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-151" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="278" width="61" height="26" as="geometry" />
+          <mxGeometry x="651" y="1205" width="61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-152" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="472" y="244" width="65" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
