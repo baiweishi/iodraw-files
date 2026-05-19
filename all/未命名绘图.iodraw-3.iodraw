@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-87" value="推广" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="320" width="66" height="68" as="geometry" />
+          <mxGeometry x="373" y="282" width="66" height="68" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="237" y="251" width="70" height="70" as="geometry" />
@@ -362,6 +362,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="348" y="333" as="sourcePoint" />
             <mxPoint x="398" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-87" target="9s3ZBQAzGlPECjb15qXu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="315" as="sourcePoint" />
+            <mxPoint x="385" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
