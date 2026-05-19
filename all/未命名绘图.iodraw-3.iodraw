@@ -67,7 +67,7 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-21" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="392" width="63" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-22" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-22" value="发布时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="226" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-23" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
