@@ -29,7 +29,7 @@
           <mxGeometry x="619" y="1402" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-11" value="美食名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="842" width="63" height="36" as="geometry" />
+          <mxGeometry x="69" y="1658" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-12" value="封面图篇" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="1555" width="63" height="36" as="geometry" />
@@ -364,10 +364,10 @@
             <mxPoint x="405" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-104" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-42" target="9s3ZBQAzGlPECjb15qXu-44">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-104" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="437" as="sourcePoint" />
-            <mxPoint x="404.9999999999998" y="808.9999999999998" as="targetPoint" />
+            <mxPoint x="403" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-106" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
