@@ -349,9 +349,9 @@
             <mxPoint x="443" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-144" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-104">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-144" value="e" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-104">
           <mxGeometry x="-0.0956" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-106" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
@@ -439,6 +439,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431" y="269" as="sourcePoint" />
             <mxPoint x="455" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-145" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-139">
+          <mxGeometry x="0.134" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-140" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
