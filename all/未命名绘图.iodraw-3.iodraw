@@ -485,10 +485,10 @@
           <mxGeometry x="433" y="875" width="61" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-154" value="美食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="1620" width="61" height="26" as="geometry" />
+          <mxGeometry x="436" y="1561" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-155" value="浏览" style="rhombus;whiteSpace=wrap;html=1;rotation=-25;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1504" width="57" height="54" as="geometry" />
+          <mxGeometry x="405" y="1462" width="57" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-156" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="1367" width="61" height="26" as="geometry" />
@@ -533,6 +533,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="216" y="1695" as="sourcePoint" />
             <mxPoint x="266" y="1645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="1652" as="sourcePoint" />
+            <mxPoint x="354" y="1602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
