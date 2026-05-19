@@ -71,7 +71,7 @@
           <mxGeometry x="699" y="914" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-27" value="行为类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="504" width="63" height="36" as="geometry" />
+          <mxGeometry x="144" y="520" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-28" value="配图路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="578" width="63" height="36" as="geometry" />
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-41" value="点赞收藏" style="rounded=0;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="253" y="381" width="61" height="26" as="geometry" />
+          <mxGeometry x="227" y="375" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-42" value="美食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="843" width="61" height="26" as="geometry" />
