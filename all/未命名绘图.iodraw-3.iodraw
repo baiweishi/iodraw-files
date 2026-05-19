@@ -26,7 +26,7 @@
           <mxGeometry x="406" y="66" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-10" value="点赞量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="634" y="556" width="63" height="36" as="geometry" />
+          <mxGeometry x="573" y="475" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-11" value="美食名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="471" width="63" height="36" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="57" y="78" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-25" value="美食品类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="625" width="63" height="36" as="geometry" />
+          <mxGeometry x="529" y="526" width="63" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-26" value="美食简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="509" width="63" height="36" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-26" value="美食简介" style="ellipse;whiteSpace=wrap;html=1;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="604" y="418" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-27" value="行为类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" y="520" width="63" height="36" as="geometry" />
