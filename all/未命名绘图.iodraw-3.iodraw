@@ -319,8 +319,8 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-87" value="推广" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="361" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-88" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="124" width="80" height="80" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-88" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="244" y="124" width="75" height="74" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="186" y="223" width="80" height="80" as="geometry" />
