@@ -14,7 +14,7 @@
           <mxGeometry x="471" y="75" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-4" value="记录编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="500" width="63" height="36" as="geometry" />
+          <mxGeometry x="86" y="457" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-6" value="认证状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="90" width="63" height="36" as="geometry" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-55" value="操作用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="539" width="61" height="36" as="geometry" />
+          <mxGeometry x="143" y="490" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-56" value="目标对象编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="490" width="61" height="36" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="372" y="699" width="66" height="68" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-89" value="操作" style="rhombus;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="308" y="288" width="70" height="70" as="geometry" />
+          <mxGeometry x="298" y="282" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-90" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=-50;" vertex="1" parent="1">
           <mxGeometry x="463" y="257" width="82.08" height="69.06" as="geometry" />
@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-110" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="451.0045774739557" y="292.9970176264095" as="geometry">
+          <mxGeometry x="487.0045774739557" y="291.9970176264095" as="geometry">
             <mxPoint x="-200" y="63" as="offset" />
           </mxGeometry>
         </mxCell>
