@@ -349,8 +349,8 @@
             <mxPoint x="274.77836943965735" y="181.44163056034256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-100" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="266.27" y="122.23" width="77.08" height="69.06" as="geometry" />
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-100" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="242.99999999999997" y="114" width="77.08" height="69.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
