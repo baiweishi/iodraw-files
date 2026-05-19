@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-41" value="点赞收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258" y="300" width="61" height="26" as="geometry" />
+          <mxGeometry x="216" y="350" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-42" value="美食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="421" width="61" height="26" as="geometry" />
