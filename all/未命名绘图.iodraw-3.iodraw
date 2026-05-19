@@ -416,7 +416,7 @@
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-120" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-119">
           <mxGeometry x="-0.1312" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="11" as="offset" />
+            <mxPoint x="55" y="105" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-44" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
