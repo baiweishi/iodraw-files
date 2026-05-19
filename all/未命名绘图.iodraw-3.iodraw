@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="319" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-6" value="认证状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="38" width="63" height="36" as="geometry" />
+          <mxGeometry x="521" y="84" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-7" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="71" width="63" height="36" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="386" y="570" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-13" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="3" width="63" height="36" as="geometry" />
+          <mxGeometry x="359" y="72" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-14" value="评论内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="31" y="175" width="63" height="36" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="35" y="218" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-18" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="46" width="63" height="36" as="geometry" />
+          <mxGeometry x="592" y="109" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-20" value="分享编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682" y="121" width="63" height="36" as="geometry" />
