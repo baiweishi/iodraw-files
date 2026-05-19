@@ -62,7 +62,7 @@
           <mxGeometry x="600" y="533" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-24" value="评论编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="75" width="63" height="36" as="geometry" />
+          <mxGeometry x="57" y="78" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-25" value="美食品类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553" y="924" width="63" height="36" as="geometry" />
@@ -349,7 +349,7 @@
             <mxPoint x="274.77836943965735" y="181.44163056034256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-100" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=-65;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-100" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="241" y="209" width="77.08" height="69.06" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-89" target="9s3ZBQAzGlPECjb15qXu-1">
