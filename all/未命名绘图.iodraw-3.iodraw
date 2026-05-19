@@ -29,7 +29,7 @@
           <mxGeometry x="621" y="492" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-11" value="美食名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="567" width="63" height="36" as="geometry" />
+          <mxGeometry x="164" y="578" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-12" value="封面图篇" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="570" width="63" height="36" as="geometry" />
@@ -122,10 +122,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-41" value="点赞收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="101" y="372" width="61" height="26" as="geometry" />
+          <mxGeometry x="166" y="289" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-42" value="美食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="451" width="61" height="26" as="geometry" />
+          <mxGeometry x="386" y="421" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-43" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="137" width="61" height="26" as="geometry" />
@@ -217,7 +217,7 @@
             <mxPoint x="371" y="252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-11" target="9s3ZBQAzGlPECjb15qXu-42">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-11" target="9s3ZBQAzGlPECjb15qXu-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="104" y="508" as="sourcePoint" />
             <mxPoint x="154" y="458" as="targetPoint" />
