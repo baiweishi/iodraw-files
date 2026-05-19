@@ -38,7 +38,7 @@
           <mxGeometry x="3" y="524" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-12" value="封面图篇" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="213" y="512" width="63" height="36" as="geometry" />
+          <mxGeometry x="203" y="572" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-13" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141" y="123" width="63" height="36" as="geometry" />
@@ -92,13 +92,13 @@
           <mxGeometry x="690" y="532" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-31" value="浏览量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="507" width="63" height="36" as="geometry" />
+          <mxGeometry x="269" y="565" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-32" value="所属地区" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="143" y="518" width="63" height="36" as="geometry" />
+          <mxGeometry x="129" y="572" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-33" value="美食编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="518" width="63" height="36" as="geometry" />
+          <mxGeometry x="54" y="564" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-1" target="9s3ZBQAzGlPECjb15qXu-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
