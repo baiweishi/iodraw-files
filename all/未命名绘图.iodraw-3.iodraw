@@ -14,7 +14,7 @@
           <mxGeometry x="439" y="84" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-4" value="记录编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="446" width="63" height="36" as="geometry" />
+          <mxGeometry x="78" y="437" width="63" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-6" value="认证状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="124" width="63" height="36" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="56" y="391" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-56" value="目标对象编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96" y="495" width="61" height="36" as="geometry" />
+          <mxGeometry x="125" y="471" width="61" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-4" target="9s3ZBQAzGlPECjb15qXu-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
