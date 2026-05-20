@@ -502,7 +502,7 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-159" value="发表" style="rhombus;whiteSpace=wrap;html=1;rotation=-90;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="244.54" y="1346" width="70" height="69.06" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-160" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-160" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="146" y="1368" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-161" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
@@ -583,7 +583,7 @@
             <mxPoint x="575" y="1422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-188" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-172">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-188" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="9s3ZBQAzGlPECjb15qXu-172">
           <mxGeometry x="0.0281" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
