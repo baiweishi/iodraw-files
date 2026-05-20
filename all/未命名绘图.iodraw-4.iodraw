@@ -31,7 +31,7 @@
             <mxPoint x="205" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2qPq8T8ZkvxREtjWYWs-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 4px;&quot;&gt;普通用户&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;spacing=-7;fontSize=6;strokeWidth=0.5;" vertex="1" parent="1">
+        <mxCell id="J2qPq8T8ZkvxREtjWYWs-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 4px;&quot;&gt;美食达人&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;spacing=-7;fontSize=6;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="151" y="298" width="24" height="40" as="geometry" />
         </mxCell>
       </root>
