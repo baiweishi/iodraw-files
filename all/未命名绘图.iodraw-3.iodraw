@@ -475,7 +475,7 @@
             <mxPoint x="1" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-151" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-151" value="分享" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="582" y="1367" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-152" value="发布" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
@@ -505,10 +505,10 @@
         <mxCell id="9s3ZBQAzGlPECjb15qXu-160" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="1368" width="61" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-161" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-161" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="357" y="1240" width="57" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="9s3ZBQAzGlPECjb15qXu-162" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+        <mxCell id="9s3ZBQAzGlPECjb15qXu-162" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-45;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="521" y="1448" width="61" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9s3ZBQAzGlPECjb15qXu-163" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9s3ZBQAzGlPECjb15qXu-159" target="9s3ZBQAzGlPECjb15qXu-156">
